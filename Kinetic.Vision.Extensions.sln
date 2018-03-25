@@ -1,0 +1,115 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Kinect", "Kinetic.Vision.Kinect\Kinetic.Vision.Kinect.csproj", "{46903499-E33E-4CB8-AC8A-BF05C6051C27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Utilities", "Kinetic.Vision.Utilities\Kinetic.Vision.Utilities.csproj", "{4D177E1F-7337-47C3-AEA4-3A841C56798E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Collections", "Kinetic.Vision.Collections\Kinetic.Vision.Collections.csproj", "{D93E5496-DA72-4A59-AB3D-3F496D18D10C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.ComponentModel", "Kinetic.Vision.ComponentModel\Kinetic.Vision.ComponentModel.csproj", "{7D364D4E-638A-4C81-AB39-54595B276F58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Windows", "Kinetic.Vision.Windows\Kinetic.Vision.Windows.csproj", "{0E0F104F-B22F-43B3-9142-6AA08BACAA1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Drawing", "Kinetic.Vision.Drawing\Kinetic.Vision.Drawing.csproj", "{D8343296-923B-4D64-A671-C6B208607527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Enumerations", "Kinetic.Vision.Enumerations\Kinetic.Vision.Enumerations.csproj", "{04057C1F-112E-48DD-A638-1AB0CFBB9AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.Kinect.Face", "Kinetic.Vision.Kinect.Face\Kinetic.Vision.Kinect.Face.csproj", "{B4D9F88C-B827-402D-A9E3-E607F1FF1906}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.System", "Kinetic.Vision.System\Kinetic.Vision.System.csproj", "{015A4884-9C59-42A0-AD73-2A77610B4BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kinetic.Vision.DateTime", "Kinetic.Vision.DateTime\Kinetic.Vision.DateTime.csproj", "{ADF4F968-4780-453D-B2F5-25027A528C8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46903499-E33E-4CB8-AC8A-BF05C6051C27}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{46903499-E33E-4CB8-AC8A-BF05C6051C27}.Debug|Any CPU.Build.0 = Debug|x64
+		{46903499-E33E-4CB8-AC8A-BF05C6051C27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46903499-E33E-4CB8-AC8A-BF05C6051C27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D177E1F-7337-47C3-AEA4-3A841C56798E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D177E1F-7337-47C3-AEA4-3A841C56798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D177E1F-7337-47C3-AEA4-3A841C56798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D177E1F-7337-47C3-AEA4-3A841C56798E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D93E5496-DA72-4A59-AB3D-3F496D18D10C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D93E5496-DA72-4A59-AB3D-3F496D18D10C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D93E5496-DA72-4A59-AB3D-3F496D18D10C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D93E5496-DA72-4A59-AB3D-3F496D18D10C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D364D4E-638A-4C81-AB39-54595B276F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D364D4E-638A-4C81-AB39-54595B276F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D364D4E-638A-4C81-AB39-54595B276F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D364D4E-638A-4C81-AB39-54595B276F58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E0F104F-B22F-43B3-9142-6AA08BACAA1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E0F104F-B22F-43B3-9142-6AA08BACAA1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E0F104F-B22F-43B3-9142-6AA08BACAA1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E0F104F-B22F-43B3-9142-6AA08BACAA1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8343296-923B-4D64-A671-C6B208607527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8343296-923B-4D64-A671-C6B208607527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8343296-923B-4D64-A671-C6B208607527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8343296-923B-4D64-A671-C6B208607527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04057C1F-112E-48DD-A638-1AB0CFBB9AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04057C1F-112E-48DD-A638-1AB0CFBB9AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04057C1F-112E-48DD-A638-1AB0CFBB9AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04057C1F-112E-48DD-A638-1AB0CFBB9AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D9F88C-B827-402D-A9E3-E607F1FF1906}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{B4D9F88C-B827-402D-A9E3-E607F1FF1906}.Debug|Any CPU.Build.0 = Debug|x64
+		{B4D9F88C-B827-402D-A9E3-E607F1FF1906}.Release|Any CPU.ActiveCfg = Release|x64
+		{B4D9F88C-B827-402D-A9E3-E607F1FF1906}.Release|Any CPU.Build.0 = Release|x64
+		{015A4884-9C59-42A0-AD73-2A77610B4BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015A4884-9C59-42A0-AD73-2A77610B4BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015A4884-9C59-42A0-AD73-2A77610B4BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015A4884-9C59-42A0-AD73-2A77610B4BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF4F968-4780-453D-B2F5-25027A528C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF4F968-4780-453D-B2F5-25027A528C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF4F968-4780-453D-B2F5-25027A528C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF4F968-4780-453D-B2F5-25027A528C8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC6FE4A-7088-44E3-9879-C95C4D14E6DF}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 11
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://luduce.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Kinetic.Vision.Collections\\Kinetic.Vision.Collections.csproj
+		SccProjectName1 = Kinetic.Vision.Collections
+		SccLocalPath1 = Kinetic.Vision.Collections
+		SccProjectUniqueName2 = Kinetic.Vision.ComponentModel\\Kinetic.Vision.ComponentModel.csproj
+		SccProjectName2 = Kinetic.Vision.ComponentModel
+		SccLocalPath2 = Kinetic.Vision.ComponentModel
+		SccProjectUniqueName3 = Kinetic.Vision.DateTime\\Kinetic.Vision.DateTime.csproj
+		SccProjectName3 = Kinetic.Vision.DateTime
+		SccLocalPath3 = Kinetic.Vision.DateTime
+		SccProjectUniqueName4 = Kinetic.Vision.Drawing\\Kinetic.Vision.Drawing.csproj
+		SccProjectName4 = Kinetic.Vision.Drawing
+		SccLocalPath4 = Kinetic.Vision.Drawing
+		SccProjectUniqueName5 = Kinetic.Vision.Enumerations\\Kinetic.Vision.Enumerations.csproj
+		SccProjectName5 = Kinetic.Vision.Enumerations
+		SccLocalPath5 = Kinetic.Vision.Enumerations
+		SccProjectUniqueName6 = Kinetic.Vision.Kinect.Face\\Kinetic.Vision.Kinect.Face.csproj
+		SccProjectName6 = Kinetic.Vision.Kinect.Face
+		SccLocalPath6 = Kinetic.Vision.Kinect.Face
+		SccProjectUniqueName7 = Kinetic.Vision.System\\Kinetic.Vision.System.csproj
+		SccProjectName7 = Kinetic.Vision.System
+		SccLocalPath7 = Kinetic.Vision.System
+		SccProjectUniqueName8 = Kinetic.Vision.Utilities\\Kinetic.Vision.Utilities.csproj
+		SccProjectName8 = Kinetic.Vision.Utilities
+		SccLocalPath8 = Kinetic.Vision.Utilities
+		SccProjectUniqueName9 = Kinetic.Vision.Windows\\Kinetic.Vision.Windows.csproj
+		SccProjectName9 = Kinetic.Vision.Windows
+		SccLocalPath9 = Kinetic.Vision.Windows
+		SccProjectUniqueName10 = Kinetic.Vision.Kinect\\Kinetic.Vision.Kinect.csproj
+		SccProjectName10 = Kinetic.Vision.Kinect
+		SccLocalPath10 = Kinetic.Vision.Kinect
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Kinetic.Vision.Kinect.Face.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProjectOxford_PrimaryKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">f0c6a323592a4ad3be63c570bf781c65</Value>
+    </Setting>
+    <Setting Name="ProjectOxford_SecondaryKey" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4b13bb6188cb4ff293118485b4197833</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
